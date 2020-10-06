@@ -1,0 +1,41 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #f2f6e9;
+}
+.about-title {
+    color: purple;
+    font-weight: bold;
+}
+#services {
+    background-color: purple;
+    color: white;
+}
+.icon {
+    font-size: 5rem;
+    color: white;
+}
+.services-title {
+    font-weight: bolder
+}
+.contact-section{
+    background-color: purple;
+}
+.nav-hover:hover {
+    background-color: purple !important;
+    color: white !important;
+}
+.hr-theme-slash-2 {
+  display: flex;
+}
+  
+.hr-line {
+    width: 100%;
+    position: relative;
+    margin: 15px;
+    border-bottom: 1px solid #000;
+  }
+.hr-icon {
+    position: relative;
+    top: 3px;
+  }
